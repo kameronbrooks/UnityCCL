@@ -1,0 +1,5 @@
+string arg0 = "hello";
+string arg1 = "world";
+
+return arg0 + " " + arg1;
+
